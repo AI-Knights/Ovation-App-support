@@ -1,70 +1,68 @@
-Ovation App Support
+# Ovation App Support
 
-Welcome to Ovation Support.
+Welcome to the official support page for **Ovation – Social Video Platform**.
 
 If you are experiencing any issues with the Ovation mobile application, please contact our support team using the information below.
 
-📧 Contact Information
+---
 
-Support Email: shellyraiter@gmail.com
+## 📧 Contact Information
 
-We aim to respond to all support inquiries within 24–48 business hours.
+**Support Email:** shellyraiter@gmail.com  
 
-🛠 Common Support Topics
+We aim to respond to all support inquiries within **24–48 business hours**.
+
+---
+
+## 🛠 Common Support Topics
 
 You may contact us regarding:
 
-Account login issues
+- Account login issues  
+- Password reset problems  
+- Video upload errors  
+- Content reporting  
+- Account suspension or restriction  
+- Technical bugs or crashes  
+- App performance issues  
 
-Password reset problems
+---
 
-Video upload errors
-
-Content reporting
-
-Account suspension or restriction
-
-Technical bugs or crashes
-
-Payment or in-app feature concerns
-
-🔐 Account & Security
+## 🔐 Account & Security Issues
 
 If you suspect unauthorized access to your account:
 
-Immediately reset your password.
+1. Reset your password immediately.
+2. Email us with subject: **URGENT: Account Security Issue**
+3. Include your registered email and issue details.
 
-Contact support with subject line: URGENT: Account Security Issue
+---
 
-Include your registered email and a brief explanation.
+## 🚫 Report Inappropriate Content
 
-🚫 Report Abuse or Content
+To report harmful or inappropriate content, please include:
 
-To report harmful or inappropriate content:
+- Username of the account
+- Link to the content
+- Brief explanation of the issue
 
-Provide the username
+Our moderation team will review the report to ensure community safety.
 
-Provide the post/video link
+---
 
-Briefly explain the issue
+## 📱 Technical Issue Reporting
 
-Our moderation team reviews reports carefully to maintain community safety.
+When reporting a technical issue, please include:
 
-📱 App Version Information
-
-When contacting support, please include:
-
-Your device model
-
-Operating system version
-
-App version
-
-Screenshot (if possible)
+- Device model
+- Operating system version
+- App version
+- Screenshot or screen recording (if possible)
 
 This helps us resolve your issue faster.
 
+---
+
 Thank you for using Ovation.
-We appreciate your support and feedback.
 
 © 2026 Ovation. All Rights Reserved.
